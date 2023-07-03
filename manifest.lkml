@@ -16,6 +16,6 @@ constant: PRICING_TABLE {
 }
 
 constant: CONNECTION {
-  value: "bq-connection"
+  value: "looker_partner_demo"
   export: override_optional
 }
